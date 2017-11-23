@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="17.38px" height="17.38px" viewBox="0 0 17.38 17.38" enable-background="new 0 0 17.38 17.38" xml:space="preserve">
+<path fill="#070001" d="M8.689-0.001c4.801,0,8.691,3.892,8.691,8.691c0,4.798-3.891,8.691-8.691,8.691
+	c-4.8,0-8.691-3.893-8.691-8.691C-0.002,3.89,3.89-0.001,8.689-0.001"/>
+<path fill="none" d="M1.707,8.69c0,3.857,3.127,6.984,6.984,6.984s6.984-3.127,6.984-6.984c0-3.857-3.127-6.984-6.984-6.984
+	S1.707,4.833,1.707,8.69"/>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="8.692" cy="8.69" r="6.985"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	
+		<radialGradient id="SVGID_3_" cx="-820.8701" cy="316.2227" r="1.2265" gradientTransform="matrix(8.3884 0 0 8.3884 6892.7695 -2646.4063)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#CBE2A3"/>
+		<stop  offset="1" style="stop-color:#7CC05C"/>
+	</radialGradient>
+	<rect x="1.707" y="1.706" clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" width="13.969" height="13.968"/>
+</g>
+<g opacity="0.5" enable-background="new    ">
+	<g>
+		<defs>
+			<rect id="SVGID_4_" x="5.432" y="4.655" width="2.328" height="2.328"/>
+		</defs>
+		<clipPath id="SVGID_5_">
+			<use xlink:href="#SVGID_4_"  overflow="visible"/>
+		</clipPath>
+		<rect x="5.432" y="4.655" clip-path="url(#SVGID_5_)" fill="#FFFFFF" width="2.328" height="2.327"/>
+	</g>
+</g>
+<g opacity="0.5" enable-background="new    ">
+	<g>
+		<defs>
+			<rect id="SVGID_6_" x="5.432" y="4.655" width="1.164" height="2.328"/>
+		</defs>
+		<clipPath id="SVGID_7_">
+			<use xlink:href="#SVGID_6_"  overflow="visible"/>
+		</clipPath>
+		<rect x="5.432" y="4.655" clip-path="url(#SVGID_7_)" fill="#FFFFFF" width="1.164" height="2.327"/>
+	</g>
+</g>
+</svg>
